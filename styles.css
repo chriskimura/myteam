@@ -1,0 +1,37 @@
+h1 {
+    color: dodgerblue;
+    text-align: center;
+}
+
+.display-4 {
+    font-size: 80 px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px 2px dodgerblue;
+}
+
+.navbar-light .navbar-brand {
+    color: red;
+}
+
+.jumbotron {
+    background-image: url(machado.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.logo {
+    height: 160px
+}
+
+body {
+    background-color: rgb(45, 45, 45)
+}
+
+tr {
+    color:white
+}
+
+.navbar-dark .navbar-brand {
+    background-color: rgb(45, 45, 45)
+}
